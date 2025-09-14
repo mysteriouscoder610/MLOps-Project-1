@@ -1,4 +1,4 @@
-```markdown
+
 # 🚗 Vehicle Data MLops Project  
 
 <p align="center">
@@ -167,7 +167,5 @@ flowchart LR
 📍 B.Tech IT @ KNIT Sultanpur
 💻 Interests: Competitive Programming | Development | MLops | ML Engineering
 
-```
 
----
 
